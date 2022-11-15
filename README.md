@@ -5,7 +5,7 @@ Basically it implements two adjustables PID controllers for precise rotational s
 The libraries were developed base on Andrew Kramer library, available at http://andrewjkramer.net/pid-motor-control/
 
 ## Next Steps
-Actually it is controlled by a set of instructions by Serial Port. But I will develop aditional features like:
+Currently the MCU is controlled by a set of instructions by Serial Port. But I will develop aditional features like:
 - PPM Control, to attach Radiocontrollers
 - LiPo Battery voltage and H-Bridge Driver temperature measures
 - Automatic Calibration routines
